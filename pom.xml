@@ -5,9 +5,9 @@
 	<groupId>com.mycompany</groupId>
 	
 	<version>1.0.9</version>
-	<packaging>mule-application</packaging>
+	
 
-	<name>sys-jenkins-api</name>
+	
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
