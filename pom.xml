@@ -5,7 +5,7 @@
 	<groupId>com.mycompany</groupId>
 	<t>sys-jenkins-api</t>
 	<version>1.0.9</version>
-	<packaging>mule-application</packaging>
+	
 
 	
 
