@@ -49,7 +49,7 @@
 	<dependencies>
 		<dependency>
 			<groupId>org.mule.connectors</groupId>
-			<artifactId>mule-http-connector</artifactId>
+			<artifactId>mule-https-connector</artifactId>
 			<version>1.5.25</version>
 			<classifier>mule-plugin</classifier>
 		</dependency>
