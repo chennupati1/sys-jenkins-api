@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	mule=mule
 	<mule>com.mule</test>
-	
+	<test>1</test>
 	<version>1.0.10</version>
 	<version=version>
 
